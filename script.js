@@ -28,7 +28,6 @@ tl.from(".txtEfeito1", {
     scrollTrigger: {
         trigger: ".txtEfeito1",
         start: "80% 50%",
-        markers: true,
         scrub: 2,
     }
 }, "+=1").from(".txtEfeito2", {
